@@ -1,0 +1,23 @@
+.navbar {
+    background-color: rgb(118, 102, 244);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .navbar-brand {
+    margin-left: 10px;
+  }
+  
+  .navbar-nav {
+    float: right;
+    margin-left:350px;
+  }
+
+  .navbar-nav li {
+    display: inline-block;
+    margin-right: 15px;
+    color:white;
+    
+  }
+  
